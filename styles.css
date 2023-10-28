@@ -1,0 +1,38 @@
+/* Custom CSS Styles */
+
+.hero {
+    height: 100vh;
+    background-image: url('path/to/your/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .hero-content {
+    color: #fff;
+  }
+  
+  .about {
+    padding: 80px 0;
+    background-color: #f5f5f5;
+  }
+  
+  .services {
+    padding: 80px 0;
+  }
+  
+  .services .card {
+    margin-bottom: 30px;
+  }
+  
+  .contact {
+    padding: 80px 0;
+  }
+  
+  .footer {
+    padding: 20px 0;
+  }
+  
